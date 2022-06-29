@@ -8,9 +8,12 @@ This is an example to show different parts of Github commands and how to use the
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+
 
 ## Deplyment
+
+This is a demo project. Deplyment can be on any server.
 
 
 ## How to Contribute
