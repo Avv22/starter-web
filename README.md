@@ -13,7 +13,11 @@ Sample website with plenty of files for demos.
 
 ## Deplyment
 
-This is a demo project. Deplyment can be on any server.
+This is a demo project. Deplyment can be on any server. 
+
+I edite deployment section.
 
 
 ## How to Contribute
+
+Contribution is made to this repo by forking it.
