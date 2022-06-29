@@ -20,4 +20,4 @@ I edite deployment section.
 
 ## How to Contribute
 
-Contribution is made to this repo by forking it.
+Contribution is made to this repo by forking it and then do PULL requests for review.
